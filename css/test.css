@@ -1,0 +1,53 @@
+@charset "UTF-8" ; 
+
+* {margin: 0 ;padding: 0;}
+li {list-style: none;}
+a {color: #222; text-decoration: none;}
+
+
+.wrap {width: 1200px; height: 700px; ;margin: 0 auto}
+
+.header {width: 1200px;height: 97px;background-color: #fff;border-bottom: 5 PX solid #00abe5;}
+
+.header .logo {width: 200px; height: 100px; float: left;}
+
+.header .logo img {margin-top: 35px;margin-left: 10px;}
+
+.header .gnb {float: right;font-size: 0px;}
+
+.header .gnb li {width: 200px;display:inline-block;height: 100px;line-height: 100px;text-align: center;font-size: 16px;}
+
+.vi {width: 1200px; height: 300px; }
+
+.pic {width: 1200px;height: 200px;background-color: ;}
+
+.pic .pi {float: left;}
+
+.pic .pi > li {width: 398px;height: 200px;font-size: 12px;float: left;;}
+
+.pic  h2 {font-size: 20px;margin-left: 30px;margin-top: 30px;}
+
+.pic  h2 img {margin-left: 20px;}
+
+
+
+.p1 li {margin-left: 30px;margin-top: 10px;}
+
+.p1 .p {margin-top: 30px;}
+.p1 img{margin-right: 5px;}
+
+
+
+.footer {width: 1200px; height: 100px;;}
+
+.footer .logo {width: 200px; height: 100px; border: 1px ; float: left}
+
+.footer .logo img {margin-top: 35px;margin-left: 10px}
+
+.footer .copy {width: 500px; height: 100px;color: #5b5b5b;font-size: 14px;float: left;margin-left: 10px;}
+
+.footer .copy .co {font-size: 16px;margin-top: 35px;font-weight: bold;color: #000;}
+
+.footer .icon {}
+
+.footer .icon  li {float: left;width: 100px;height: 50px; line-height: 50px; text-align: center;margin-top: 25px ;margin-left: 40px;}
